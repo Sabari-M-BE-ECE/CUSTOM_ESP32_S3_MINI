@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\LED_2\ESP32_CUSTOM\ESP32_CUSTOM.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32_custom-roundholes.txt|DrillLayers=gtl,g1,gp1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32_custom-slotholes.txt|DrillLayers=gtl,g1,gp1,gbl
