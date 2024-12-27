@@ -6,6 +6,8 @@ Designed a four layer PCB ESP32-S3 mini board with USB C in the Altium Software 
 - **USB Interface**: USB Type-C for power and programming
 - **Software Used** : Altium
 
+## Default
+![example](PCB.png)
 
 ## Layer-1
 ![example](LAYER-1.png)
