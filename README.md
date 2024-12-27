@@ -30,5 +30,5 @@ Designed a four layer PCB ESP32-S3 mini board with USB C in the Altium Software 
 THE GENERATED FILES SUCH AS JOB,BOM,GERBER Etc.,ARE UPLOADED CHECK IT OUT IN THIS REPOSITORY.
 
 ## License
-This project is open-source under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
+This project is open-source under the MIT License.
 
